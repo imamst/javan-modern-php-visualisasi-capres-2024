@@ -13,7 +13,7 @@ class GenerateProfilCalon extends Command
      *
      * @var string
      */
-    protected $signature = 'app:generate-profil-calon';
+    protected $signature = 'capresku';
 
     /**
      * The console command description.
